@@ -1,4 +1,4 @@
-# xdo-hotcorners
+# xdo-hotcorners-node
 
 Hot corners for XFCE
 
