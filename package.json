@@ -1,0 +1,13 @@
+{
+  "name": "xdo-hotcorners",
+  "version": "1.0.0",
+  "description": "Hot corners for XFCE",
+  "main": "index.js",
+  "repository": "https://github.com/waynebloss/xdo-hotcorners-node",
+  "author": "waynebloss@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eslint": "^5.7.0"
+  }
+}
