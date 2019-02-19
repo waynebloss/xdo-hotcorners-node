@@ -4,6 +4,8 @@ Hot corners for XFCE
 
 ## Proof of Concept
 
+**WARNING: This utility kinda sucks!**
+
 There is currently only support for one hot corner (lower-left) at this time
 and when the mouse activates it, it only runs one hard-coded action:
 `xfce4-popup-whiskermenu`.
